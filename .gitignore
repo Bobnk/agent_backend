@@ -1,0 +1,19 @@
+# 环境密钥，千万不要上传！
+*.env
+
+# sqlite数据库文件
+*.db
+
+# python缓存
+__pycache__/
+*.pyc
+
+# pycharm配置
+.idea/
+
+# 虚拟环境文件夹
+my_env/
+.venv/
+
+# 临时测试脚本
+test_*.py
